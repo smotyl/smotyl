@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sandro Motyl, I'm a computer scientist currently focused on JavaScript, working as Frontend Engineer, creating frameworks, design systems and also some public APIs.
+My name is Sandro Motyl, I'm a computer scientist currently focused on JavaScript, working as Software Engineer, creating frameworks, design systems and also some public APIs.
 
 npm: https://www.npmjs.com/~smotyl
 linkedin: https://www.linkedin.com/in/sandro-motyl/
